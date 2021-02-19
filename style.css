@@ -1,8 +1,13 @@
 body {
-  background-color: lightblue;
+  background-color: LightSteelBlue;
 }
 
 h1 {
-  color: navy;
-  margin-left: 20px;
+  color: DarkSlateGrey;
+}
+h2 {
+  color: DimGrey;
+}
+p {
+  color: Grey;
 }
